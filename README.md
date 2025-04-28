@@ -1,7 +1,3 @@
-Got it — here’s your idea neatly structured into a Markdown document, bifurcated into **Thesis**, **Solution**, and **Implementation**, like you asked:
-
----
-
 # Tachyon solvers - low latency ZK-Powered Solver Network for Open Intents Framework
 
 ## Thesis
